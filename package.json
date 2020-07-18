@@ -1,0 +1,17 @@
+{
+  "name": "sa",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "'anon01",
+  "license": "ISC",
+  "dependencies": {
+    "bot.js": "0.0.1",
+    "discord.js": "^12.2.0",
+    "node.js": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "description": ""
+}
